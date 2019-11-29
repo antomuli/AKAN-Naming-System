@@ -88,7 +88,7 @@ function output() {
       }
      else {
       alert("enter your credentials please");
-      }
+      }       
   }
   find_akan()
 
