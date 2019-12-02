@@ -37,35 +37,35 @@ The form to be filled looks like the one above.
 The beginning of wisdom is to call things by their right names...For now;according to the day of the week. Some of the names are indicated below:
 
 **MALE NAMES**                                            
-*Sunday- Kwasi.                                                            
+1.Sunday- Kwasi.                                                            
 
-*Monday- Kwadwo.                                          
+2.Monday- Kwadwo.                                          
 
-*Tuesday- Kwabena.                                        
+3.Tuesday- Kwabena.                                        
 
-*Wednesday- Kwaku.                                        
+4.Wednesday- Kwaku.                                        
 
-*Thursday- Yaw.                                           
+5.Thursday- Yaw.                                           
 
-*Friday- Kofi.                                            
+6.Friday- Kofi.                                            
 
-*Saturday- Kwame.                                         
+7.Saturday- Kwame.                                         
 
 **FEMALE NAMES**
 
-*Sunday: Akosua
+1.Sunday: Akosua
 
-*Monday: Adwoa
+2.Monday: Adwoa
 
-*Tuesday: Abenaa
+3.Tuesday: Abenaa
 
-*Wednesday: Akua
+4.Wednesday: Akua
 
-*Thursday: Yaa
+5.Thursday: Yaa
 
-*Friday: Afua
+6.Friday: Afua
 
-*Saturday: Ama
+7.Saturday: Ama
 
 
 ##### Live Link to AKAN-Naming System.
