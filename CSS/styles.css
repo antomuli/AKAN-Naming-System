@@ -1,58 +1,69 @@
-*{
+* {
   text-align: center;
   color: black;
   font-family: 'Acme', sans-serif;
   font-size: 28px;
 }
-h1{
+
+h1 {
   text-decoration: underline;
   text-decoration-color: gold;
   text-shadow: 2px 2px #ff0000;
 
 }
-.n{
+
+.n {
   color: red;
 }
-.a{
+
+.a {
   color: gold;
 }
-.m{
+
+.m {
   color: green;
 }
-.e{
+
+.e {
   color: black;
 }
-.s{
+
+.s {
   color: greenyellow;
 }
 
 
-body{
-  background-image:url("https://images.pexels.com/photos/257897/pexels-photo-257897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+body {
+  background-image: url("https://images.pexels.com/photos/257897/pexels-photo-257897.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
 }
-input[type=number]{
+
+input[type=number] {
   width: 100%;
   padding: 6px;
 }
-label{
+
+label {
   color: white;
   padding: 5px;
   background-color: rgba(0, 0, 0, 0.7);
   border: 3px solid transparent;
   width: 100%;
 }
-#results{
+
+#results {
   padding: 20px;
-  background-color: maroon; 
+  background-color: maroon;
   color: white;
   margin-bottom: 15px;
   font-style: italic;
 }
-h2{
+
+h2 {
   border: 2px solid white;
   width: 100%;
-  background-color: peachpuff;;
+  background-color: peachpuff;
+  ;
 }
