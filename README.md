@@ -68,11 +68,6 @@ The beginning of wisdom is to call things by their right names...For now;accordi
 *Saturday: Ama
 
 
-
-
-
-
-
 ##### Live Link to AKAN-Naming System.
 The following is the live link to the project "AKAN-Naming System":
 This site was built using [Github pages] ()
