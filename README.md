@@ -3,8 +3,11 @@ AKAN-Naming System
 
 ## Author's Details.
 Name: Anthony Muli
+
 Email: mulianthony561@gmail.com
+
 FB: Anto De Sparta Neyo.
+
 Tel:0796577998.
 
 
@@ -22,27 +25,53 @@ Proper names are poetry in the raw. Like all poetry they are untaranslatable.
 ## project screenshot
 Akan system of giving names to their children is very unique. Unlike the Europeans, each child is given his/her own first and sur - names irrespective of the surname of the father. The first names are always derived from the day a child was born.
 The image below is the overview of the application where an individual is requested to enter his/her birth credentials:
+
 ![nnvjhfsvncvsjh](Images/BDD.jpg)
 
+Curious! Curiosity has its own reason for exciting..Find out what's yours!
+
 ![chinchillah](Images/Readme.jpg)
+
 The form to be filled looks like the one above.
 
 The beginning of wisdom is to call things by their right names...For now;according to the day of the week. Some of the names are indicated below:
 
-**MALE NAMES**                                            *-FEMALE NAMES-*
-*Sunday- Kwasi.                                           *Sunday: Akosua                  
+**MALE NAMES**                                            
+*Sunday- Kwasi.                                                            
 
-*Monday- Kwadwo.                                          *Monday: Adwoa
+*Monday- Kwadwo.                                          
 
-*Tuesday- Kwabena.                                        *Tuesday: Abenaa
+*Tuesday- Kwabena.                                        
 
-*Wednesday- Kwaku.                                        *Wednesday: Akua
+*Wednesday- Kwaku.                                        
 
-*Thursday- Yaw.                                           *Thursday: Yaa
+*Thursday- Yaw.                                           
 
-*Friday- Kofi.                                            *Friday: Afua
+*Friday- Kofi.                                            
 
-*Saturday- Kwame.                                         *Saturday: Ama
+*Saturday- Kwame.                                         
+
+**FEMALE NAMES**
+
+*Sunday: Akosua
+
+*Monday: Adwoa
+
+*Tuesday: Abenaa
+
+*Wednesday: Akua
+
+*Thursday: Yaa
+
+*Friday: Afua
+
+*Saturday: Ama
+
+
+
+
+
+
 
 ##### Live Link to AKAN-Naming System.
 The following is the live link to the project "AKAN-Naming System":
@@ -58,3 +87,8 @@ This site was built using [Github pages] ()
 4.Javascript.
 
 5.JQuery.
+
+***Known Bugs***
+1.Unless the page is reloaded it will be undefined in the footer. Instead of having the word **sadakta** which means congaratulation you will see the word *undefined*.
+
+2.Dates may not be up to the expected level.
