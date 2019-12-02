@@ -89,6 +89,7 @@ This site was built using [Github pages] ()
 5.JQuery.
 
 ***Known Bugs***
+
 1.Unless the page is reloaded it will be undefined in the footer. Instead of having the word **sadakta** which means congaratulation you will see the word *undefined*.
 
 2.Dates may not be up to the expected level.
