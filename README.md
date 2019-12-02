@@ -17,13 +17,17 @@ Proper names are poetry in the raw. Like all poetry they are untaranslatable.
 ***BDD***
 /home/moringaschool/Documents/moringa-schools-projects/AKAN-Naming System./Image
 
-4.##### Live Link to AKAN-Naming System.
+##### Live Link to AKAN-Naming System.
 The following is the live link to the project "AKAN-Naming System":
 This site was built using [Github pages] ()
 
 **The following include the list of technologies used:
 1.html.5
+
 2.CSS.
+
 3.Bootsrap Version 4.3.1
+
 4.Javascript.
+
 5.JQuery.
