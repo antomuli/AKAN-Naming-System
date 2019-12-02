@@ -15,7 +15,11 @@ Proper names are poetry in the raw. Like all poetry they are untaranslatable.
 3.In antomuli's repositories,git clone the AKAN-Naming System repository into your you *-local repository-* which is your machine(computer) /git clone the following link:***https://github.com/antomuli/AKAN-Naming-System.git***
 
 ***BDD***
-/home/moringaschool/Documents/moringa-schools-projects/AKAN-Naming System./Image
+## project screenshot
+
+![nnvjhfsvncvsjh](Images/BDD.jpg)
+![chinchillah](Images/Readme.jpg)
+
 
 ##### Live Link to AKAN-Naming System.
 The following is the live link to the project "AKAN-Naming System":
