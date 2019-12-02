@@ -14,45 +14,46 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
     integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
   </script>
-<title>AKAN-Naming System</title>
+  <title>AKAN-Naming System</title>
   <link rel="stylesheet" href="./CSS/bootstrap.min.css" type="text/css">
   <link rel="stylesheet" href="./CSS/styles.css" type="text/css">
 </head>
 
 <body>
-  <div class="container">
-    <div class="jumbotron">
-      <h1>AKAN-Naming System.</h1>
-      <p>In many parts of Ghana, and elsewhere in West Africa, a person's name is determined by the day of the week on
-        which he/she was born.
-        <span>N</span><span>A</span><span>M</span><span>E</span><span>S</span> are the sweetest and most important sound
-        in any language.
-      </p>
-    </div>
-    <div class="container-fluid">
-      <P>Enter your birthdate and gender below to read and hear your day name in Ashanti Twi, a dialect of Akan and
-        the most widely spoken language in Ghana:</P>
-    </div>
+    <div class="container">
+      <div class="jumbotron">
+        <h1>AKAN-Naming System.</h1>
+        <p>In many parts of Ghana, and elsewhere in West Africa, a person's name is determined by the day of the week on
+          which he/she was born.
+          <span class="n">N</span><span class="a">A</span><span class="m">M</span><span class="e">E</span><span
+            class="s">S</span> are the sweetest and most important
+          sound
+          in any language.
+        </p>
+      </div>
+      <div class="container-fluid">
+        <P class="bg-info">Enter your birthdate and gender below to read and hear your day name in Ashanti Twi, a
+          dialect of Akan and
+          the most widely spoken language in Ghana:</P>
+      </div>
 
-    <form id="main">
-      <label>MONTH</label>
-      <input type="number" id="month" placeholder="Enter your birth-month" max="12" min="1"><br><br>
-      <label> DAY </labe>
-      <input type="number" id="day" placeholder="Enter your birth-day" max="31" min="1"><br><br>
-      <label> YEAR </label>
-      <input type="number" id="year" placeholder="Enter your birth-year" max="2020" min="1960"><br><br>
-      <label>GENDER</label>
-      <input type="radio" name="gender" id="gender1" value="male" checked> Male
-      <input type="radio" name="gender" id="gender2" value="female"> Female
-      <input type="submit" value="Submit" class="btn btn-primary btn-lg" onclick="output()">
-</form>
+      <form id="main">
+        <label>MONTH</label>
+        <input type="number" id="month" placeholder="Enter your birth-month" max="12" min="1" size="100px"><br><br>
+        <label> DAY </labe>
+          <input type="number" id="day" placeholder="Enter your birth-day" max="31" min="1"><br><br>
+          <label> YEAR </label>
+          <input type="number" id="year" placeholder="Enter your birth-year" max="2020" min="1960"><br><br>
+          <label>GENDER</label>
+          <input type="radio" name="gender" id="gender1" value="male"> Male
+          <input type="radio" name="gender" id="gender2" value="female"> Female<br><br>
+          <input type="submit" value="Submit" class="btn btn-primary btn-lg" onclick="output()">
+      </form>
   </div>
+  <p id="results">Sadakta!</p>
+   <div class="footer"></div>
+    <h2><em>Copy& All rights reserved.</em><strong>Created by Anthony Muli</strong></h2>
+    <script src="js/script.js"></script>
   </div>
-  <p id="results">Congratulation!</p>
-  <script src="js/script.js"></script>
-  <h2><em>Copy& All rights reserved.</em>
-    <strong>Created by Anthony Muli</strong>
-  </h2>
 </body>
-
 </html>
