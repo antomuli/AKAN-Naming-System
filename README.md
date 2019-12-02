@@ -70,7 +70,7 @@ The beginning of wisdom is to call things by their right names...For now;accordi
 
 ##### Live Link to AKAN-Naming System.
 The following is the live link to the project "AKAN-Naming System":
-This site was built using [Github pages] ()
+This site was built using [Github pages] (https://antomuli.github.io/AKAN-Naming-System/)
 
 **The following include the list of technologies used:
 1.html.5
@@ -88,3 +88,19 @@ This site was built using [Github pages] ()
 1.Unless the page is reloaded it will be undefined in the footer. Instead of having the word **sadakta** which means congaratulation you will see the word *undefined*.
 
 2.Dates may not be up to the expected level.
+
+###### LICENSE AND COPY RIGHT INFO.
+MIT License
+
+Copyright (c) 2019 Moringa School-Anto
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
+to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
