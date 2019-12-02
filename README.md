@@ -1,8 +1,12 @@
 # Project Name.
 AKAN-Naming System
 
-## Author's Name.
-Anthony Muli
+## Author's Details.
+Name: Anthony Muli
+Email: mulianthony561@gmail.com
+FB: Anto De Sparta Neyo.
+Tel:0796577998.
+
 
 ### Project Description.
 Proper names are poetry in the raw. Like all poetry they are untaranslatable.
@@ -16,10 +20,29 @@ Proper names are poetry in the raw. Like all poetry they are untaranslatable.
 
 ***BDD***
 ## project screenshot
-
+Akan system of giving names to their children is very unique. Unlike the Europeans, each child is given his/her own first and sur - names irrespective of the surname of the father. The first names are always derived from the day a child was born.
+The image below is the overview of the application where an individual is requested to enter his/her birth credentials:
 ![nnvjhfsvncvsjh](Images/BDD.jpg)
-![chinchillah](Images/Readme.jpg)
 
+![chinchillah](Images/Readme.jpg)
+The form to be filled looks like the one above.
+
+The beginning of wisdom is to call things by their right names...For now;according to the day of the week. Some of the names are indicated below:
+
+**MALE NAMES**                                            *-FEMALE NAMES-*
+*Sunday- Kwasi.                                           *Sunday: Akosua                  
+
+*Monday- Kwadwo.                                          *Monday: Adwoa
+
+*Tuesday- Kwabena.                                        *Tuesday: Abenaa
+
+*Wednesday- Kwaku.                                        *Wednesday: Akua
+
+*Thursday- Yaw.                                           *Thursday: Yaa
+
+*Friday- Kofi.                                            *Friday: Afua
+
+*Saturday- Kwame.                                         *Saturday: Ama
 
 ##### Live Link to AKAN-Naming System.
 The following is the live link to the project "AKAN-Naming System":
